@@ -29,7 +29,7 @@ permalink: pretty
 # Image CDN
 imagecdn:
   #staging: "http://ed-dev.imgix.net"
-  production: "eyedivision-test.imgix.net"
+  production: "http://eyedivision-test.imgix.net"
 
 # Collections
 collections:
